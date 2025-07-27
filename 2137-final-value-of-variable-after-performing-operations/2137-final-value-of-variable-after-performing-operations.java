@@ -5,7 +5,7 @@ class Solution {
             if(operations[i].equals("++X") ||operations[i].equals("X++")){
                 ans= ans+1;
             }
-            if(operations[i].equals("X--") || operations[i].equals("--X")){
+            else{
               ans= ans-1;
             }
         }
