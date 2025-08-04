@@ -43,4 +43,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KavyaUndela/leetcode-java/tree/master/2199-two-furthest-houses-with-different-colors) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
