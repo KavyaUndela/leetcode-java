@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/KavyaUndela/leetcode-java/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/KavyaUndela/leetcode-java/tree/master/2144-maximum-difference-between-increasing-elements) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 |  |
@@ -55,4 +57,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
