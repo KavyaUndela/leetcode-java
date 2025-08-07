@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0344-reverse-string) |
+| [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-java/tree/master/1205-defanging-an-ip-address) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/KavyaUndela/leetcode-java/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+| [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/1635-number-of-good-pairs) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
