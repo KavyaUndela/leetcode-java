@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/KavyaUndela/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0344-reverse-string) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-java/tree/master/1205-defanging-an-ip-address) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/KavyaUndela/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/1635-number-of-good-pairs) |
 | [2406-decode-the-message](https://github.com/KavyaUndela/leetcode-java/tree/master/2406-decode-the-message) |
