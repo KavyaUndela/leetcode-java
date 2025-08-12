@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KavyaUndela/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/KavyaUndela/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
