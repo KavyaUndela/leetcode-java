@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/KavyaUndela/leetcode-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KavyaUndela/leetcode-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/KavyaUndela/leetcode-java/tree/master/0777-toeplitz-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/KavyaUndela/leetcode-java/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/KavyaUndela/leetcode-java/tree/master/2199-two-furthest-houses-with-different-colors) |
 ## Linked List
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
+| [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KavyaUndela/leetcode-java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KavyaUndela/leetcode-java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
