@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/KavyaUndela/leetcode-java/tree/master/0777-toeplitz-matrix) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/KavyaUndela/leetcode-java/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KavyaUndela/leetcode-java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1635-number-of-good-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/1635-number-of-good-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KavyaUndela/leetcode-java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/KavyaUndela/leetcode-java/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KavyaUndela/leetcode-java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KavyaUndela/leetcode-java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Counting Sort
