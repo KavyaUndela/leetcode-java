@@ -3,7 +3,8 @@ class Solution {
         int l=0;
         int temp=0;
         int ans=0;
-        for(int r=0;r<arr.length;r++){
+         int n=arr.length;
+        for(int r=0;r<n;r++){
             temp+=arr[r];
             if(r-l==k){
                 temp= temp - arr[l];
