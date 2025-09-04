@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
 | [0777-toeplitz-matrix](https://github.com/KavyaUndela/leetcode-java/tree/master/0777-toeplitz-matrix) |
+| [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/KavyaUndela/leetcode-java/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KavyaUndela/leetcode-java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1635-number-of-good-pairs](https://github.com/KavyaUndela/leetcode-java/tree/master/1635-number-of-good-pairs) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KavyaUndela/leetcode-java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/KavyaUndela/leetcode-java/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -115,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/KavyaUndela/leetcode-java/tree/master/0561-array-partition) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
