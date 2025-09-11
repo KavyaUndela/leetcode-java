@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0205-isomorphic-strings](https://github.com/KavyaUndela/leetcode-java/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/KavyaUndela/leetcode-java/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/KavyaUndela/leetcode-java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KavyaUndela/leetcode-java/tree/master/0205-isomorphic-strings) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/KavyaUndela/leetcode-java/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/KavyaUndela/leetcode-java/tree/master/0782-jewels-and-stones) |
 | [0940-fruit-into-baskets](https://github.com/KavyaUndela/leetcode-java/tree/master/0940-fruit-into-baskets) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KavyaUndela/leetcode-java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0940-fruit-into-baskets](https://github.com/KavyaUndela/leetcode-java/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/KavyaUndela/leetcode-java/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
