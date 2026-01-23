@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/KavyaUndela/leetcode-java/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/KavyaUndela/leetcode-java/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/KavyaUndela/leetcode-java/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/KavyaUndela/leetcode-java/tree/master/0002-add-two-numbers) |
+| [0234-palindrome-linked-list](https://github.com/KavyaUndela/leetcode-java/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -138,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KavyaUndela/leetcode-java/tree/master/2134-maximize-the-confusion-of-an-exam) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/KavyaUndela/leetcode-java/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
