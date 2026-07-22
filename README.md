@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KavyaUndela/leetcode-java/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/KavyaUndela/leetcode-java/tree/master/1046-max-consecutive-ones-iii) |
 | [2134-maximize-the-confusion-of-an-exam](https://github.com/KavyaUndela/leetcode-java/tree/master/2134-maximize-the-confusion-of-an-exam) |
 ## Prefix Sum
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/KavyaUndela/leetcode-java/tree/master/0234-palindrome-linked-list) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KavyaUndela/leetcode-java/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
